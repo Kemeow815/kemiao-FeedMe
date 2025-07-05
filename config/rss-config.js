@@ -19,11 +19,6 @@ export const config = {
       category: "科技资讯",
     },
     {
-      name: "张洪Heo",
-      url: "https://blog.zhheo.com/atom.xml",
-      category: "博客主",
-    },
-    {
       name: "纸鹿摸鱼处",
       url: "https://blog.zhilu.cyou/atom.xml",
       category: "博客主",
