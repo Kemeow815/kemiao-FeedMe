@@ -20,7 +20,7 @@ export const config = {
     },
     {
       name: "张洪Heo",
-      url: "https://blog.zhheo.com/rss.xml",
+      url: "https://blog.zhheo.com/atom.xml",
       category: "博客主",
     },
     {
