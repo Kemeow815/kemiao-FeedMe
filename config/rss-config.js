@@ -19,9 +19,9 @@ export const config = {
       category: "科技资讯",
     },
     {
-      name: "Hacker News 历史每日前十",
-      url: "https://rsshub.rssforever.com/github/issue/headllines/hackernews-daily",
-      category: "科技资讯",
+      name: "张洪Heo",
+      url: "https://blog.zhheo.com/rss.xml",
+      category: "博客主",
     },
     {
       name: "Github 今日热门",
