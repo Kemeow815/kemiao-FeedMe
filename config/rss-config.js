@@ -27,6 +27,7 @@ export const config = {
       name: "纸鹿摸鱼处",
       url: "https://blog.zhilu.cyou/atom.xml",
       category: "博客主",
+    },
     {
       name: "Github 今日热门",
       url: "https://rsshub.rssforever.com/github/trending/daily/any",
